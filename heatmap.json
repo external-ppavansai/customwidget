@@ -1,0 +1,39 @@
+{
+  "id": "production.heatmap",
+  "version": "1.0.0",
+  "name": "Heat Map",
+  "description": "A production heatmap",
+  "newInstancePrefix": "Cell",
+  "icon": "https://t01.stor-falk.de.valantic.cloud/vba-cognigy/custom-widget/icon.png",
+  "vendor": "Valantic",
+  "eula": "",
+  "license": "",
+  "webcomponents": [
+    {
+      "kind": "main",
+      "tag": "production-heatmap",
+      "url": "https://t01.stor-falk.de.valantic.cloud/vba-cognigy/custom-widget/heatmap.js",
+      "integrity": "",
+      "ignoreIntegrity": true
+    }
+  ],
+  "properties": {},
+  "methods": {},
+  "events": {},
+  "dataBindings": {
+    "myDataBinding": {
+      "feeds": [
+        {
+          "id": "dimensions",
+          "description": "Dimensions",
+          "type": "dimension"
+        },
+        {
+          "id": "measures",
+          "description": "Measures",
+          "type": "mainStructureMember"
+        }
+      ]
+    }
+  }
+}
