@@ -386,19 +386,19 @@
             switch (alert_type) {
               case "Changeover":
                 imageSrc =
-                  "https://t01.stor-falk.de.valantic.cloud/vba-cognigy/custom-widget/MicrosoftTeams-image%20%2816%29.svg";
+                  "https://github.com/external-ppavansai/customwidget/blob/main/MicrosoftTeams-image%20(changeover).svg";
                 break;
               case "Maintenance":
                 imageSrc =
-                  "https://t01.stor-falk.de.valantic.cloud/vba-cognigy/custom-widget/MicrosoftTeams-image%20%2815%29.svg";
+                  "https://github.com/external-ppavansai/customwidget/blob/main/MicrosoftTeams-image%20(maintenance).svg";
                 break;
               case "Quality":
                 imageSrc =
-                  "https://t01.stor-falk.de.valantic.cloud/vba-cognigy/custom-widget/MicrosoftTeams-image%20%2818%29.svg";
+                  "https://github.com/external-ppavansai/customwidget/blob/main/MicrosoftTeams-image%20(Quality).svg";
                 break;
               case "Logistics":
                 imageSrc =
-                  "https://t01.stor-falk.de.valantic.cloud/vba-cognigy/custom-widget/MicrosoftTeams-image%20%2817%29.svg";
+                  "https://github.com/external-ppavansai/customwidget/blob/main/MicrosoftTeams-image%20(Logistics).svg";
                 break;
             }
 
