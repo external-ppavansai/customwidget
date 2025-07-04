@@ -4,7 +4,7 @@
   "name": "Heat Map",
   "description": "A production heatmap",
   "newInstancePrefix": "Cell",
-  "icon": "https://t01.stor-falk.de.valantic.cloud/vba-cognigy/custom-widget/icon.png",
+  "icon": "https://github.com/external-ppavansai/customwidget/blob/main/icon.png",
   "vendor": "Valantic",
   "eula": "",
   "license": "",
@@ -12,7 +12,7 @@
     {
       "kind": "main",
       "tag": "production-heatmap",
-      "url": "https://t01.stor-falk.de.valantic.cloud/vba-cognigy/custom-widget/heatmap.js",
+      "url": "https://github.com/external-ppavansai/customwidget/blob/main/heatmap.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
